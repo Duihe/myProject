@@ -1,5 +1,3 @@
-#programmed by TaehuaGang
-
 class Database:
     def __init__(self):
         self.dict = {}

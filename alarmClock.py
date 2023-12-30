@@ -1,5 +1,3 @@
-#programmed by TaehuaGang
-
 class Time:
     def __init__(self, hour, minu, sec):
         if hour < 24:

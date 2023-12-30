@@ -1,5 +1,3 @@
-#programmed by TaehuaGang
-
 class MyClass:
     objectCount = 0 
     def __init__(self,givenId):

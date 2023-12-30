@@ -1,5 +1,3 @@
-#programmed by TaehuaGang
-
 #warning: You need to install the matplotlib module. To do so, open your terminal or command prompt and run the following command: 
 #pip install matplotlib
 
